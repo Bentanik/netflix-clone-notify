@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/netflix-clone-notify.Api/netflix-clone-notify.Api.csproj" />
+  </Folder>
+</Solution>
